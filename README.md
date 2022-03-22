@@ -3,12 +3,6 @@
 - 🤞 Atualmente estou cursando um bootcamp de engenharia de dados com termino previsto para 28/06/2022
 - 📫 Contato através do número 11942060592 (celular - whatsapp)
 
-##
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mMarcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-</div>
   
   <div align="center" style="display: inline_block"><br>
  
